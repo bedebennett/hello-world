@@ -1,0 +1,76 @@
+body {
+    font-family: 'Montserrat', sans-serif;
+    margin: 0 auto;
+}
+
+header {
+    margin: 0 auto;
+    font-family: 'Montserrat', sans-serif;
+}
+
+body li {
+    margin: 
+    
+}
+
+h1 {
+    
+    font-family: 'Montserrat', sans-serif;
+    margin: 20px;
+}
+
+h1 span {
+    font-size; 50px;
+    color: red;
+}
+
+p {
+    margin: 20px;
+}
+
+
+
+img {
+  margin: 20px;
+}
+
+ul.topnav {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: rgb(216, 44, 32);
+}
+
+ul.topnav li {
+    float: left;
+}
+ul.topnav li a {
+    display: inline-block;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    transition: 0.3s;
+    font-size: 17px;
+}
+
+ul.topnav li a:hover {
+    background-color: rgb(177, 37, 37);
+}
+
+header: hover {
+    background-color: rgb(177, 37, 37);
+}
+
+.bold a{
+    font-weight: bold;
+}
+
+@media screen and (max-width:600px) {
+    ul.topnav li {
+        float: none;
+        text-align: center;
+    }
+
+}
